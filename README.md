@@ -1,1 +1,1 @@
-# CANCER-CELL-PREDICTION-USING-SVM
+Cancer cell prediction using Support Vector Machines (SVM) is a machine learning approach aimed at identifying cancerous cells based on various biological features. SVM is a popular classification algorithm that is effective in binary classification tasks, making it suitable for cancer detection, where the primary goal is to distinguish between cancerous and non-cancerous cells.
